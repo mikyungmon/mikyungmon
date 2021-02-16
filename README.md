@@ -14,6 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=mikyung's%20github&fontSize=50&animation=twinkling)
+
 <details>
 <summary> :seedling: My Github Stats : </summary>
 <div markdown="1">
@@ -32,4 +35,4 @@ Here are some ideas to get you started:
 </div>
 </details>
 
-
+![reversal](https://capsule-render.vercel.app/api?type=wave&reversal=true&color=gradient&section=footer)
