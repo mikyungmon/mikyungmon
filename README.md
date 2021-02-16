@@ -26,6 +26,8 @@ Here are some ideas to get you started:
 <details>
 <summary> 🌻 My Programming Stats : </summary
 <div markdown="1">
+  
+![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mikyungmon&layout=default&theme=merko)
 
 </div>
 </details>
