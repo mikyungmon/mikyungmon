@@ -24,9 +24,10 @@ Here are some ideas to get you started:
 </details>
 
 <details>
-<summary> 🌻 My Programming Stats : </summary>
+<summary> 🌻 My Programming Stats : </summary
 <div markdown="1">
 
+https://gist.github.com/mikyungmon/215cd3f9bc83ae4d353cde1fdf7c940d.js
 
 </div>
 </details>
